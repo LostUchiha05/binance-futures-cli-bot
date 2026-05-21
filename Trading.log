@@ -1,0 +1,45 @@
+2026-05-21 17:06:55,430 - INFO - Order Placement Success.Order ID:13172007444
+2026-05-21 17:28:29,034 - INFO - Sending Order Request Payload: {'symbol': 'ETHUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-05-21 17:28:30,682 - INFO - Order Placement Success.Order ID:8719337859
+2026-05-21 17:30:21,551 - INFO - Sending Order Request Payload: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.02}
+2026-05-21 17:30:22,121 - INFO - Order Placement Success.Order ID:13172088136
+2026-05-21 17:31:11,694 - INFO - Sending Order Request Payload: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 0.02, 'price': 50000.0, 'timeInForce': 'GTC'}
+2026-05-21 17:31:12,276 - INFO - Order Placement Success.Order ID:13172091633
+2026-05-21 17:31:31,176 - INFO - Sending Order Request Payload: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.02, 'price': 50000.0, 'timeInForce': 'GTC'}
+2026-05-21 17:31:31,813 - ERROR - API Exception encounterd:Binance Exchanage Error:Limit price can't be lower than 73320.82.(Code -4024)
+2026-05-21 17:31:50,771 - INFO - Sending Order Request Payload: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.02, 'price': 750000.0, 'timeInForce': 'GTC'}
+2026-05-21 17:31:51,350 - INFO - Order Placement Success.Order ID:13172094171
+2026-05-21 17:36:32,083 - INFO - Sending Order Request Payload: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.02}
+2026-05-21 17:36:32,666 - INFO - Order Placement Success.Order ID:13172114016
+2026-05-21 17:36:49,392 - INFO - Sending Order Request Payload: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.02}
+2026-05-21 17:36:49,944 - INFO - Order Placement Success.Order ID:13172114778
+2026-05-21 17:40:15,409 - INFO - Sending Order Request Payload: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.02}
+2026-05-21 17:40:15,979 - INFO - Order Placement Success.Order ID:13172126881
+2026-05-21 17:40:25,810 - INFO - Sending Order Request Payload: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.02}
+2026-05-21 17:40:26,362 - INFO - Order Placement Success.Order ID:13172127460
+2026-05-21 17:43:14,691 - INFO - Sending Order Request Payload: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.02}
+2026-05-21 17:43:15,267 - INFO - Order Placement Success.Order ID:13172137279
+2026-05-21 17:43:28,662 - INFO - Sending Order Request Payload: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 1.0}
+2026-05-21 17:43:29,241 - ERROR - API Exception encounterd:Binance Exchanage Error:Margin is insufficient.(Code -2019)
+2026-05-21 17:43:36,957 - INFO - Sending Order Request Payload: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.1}
+2026-05-21 17:43:37,526 - INFO - Order Placement Success.Order ID:13172138468
+2026-05-21 17:43:55,663 - INFO - Sending Order Request Payload: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.1}
+2026-05-21 17:43:56,229 - INFO - Order Placement Success.Order ID:13172139581
+2026-05-21 17:50:34,185 - INFO - Sending Order Request Payload: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.1}
+2026-05-21 17:50:34,797 - ERROR - API Exception encounterd:Binance Exchanage Error:Margin is insufficient.(Code -2019)
+2026-05-21 17:50:46,219 - INFO - Sending Order Request Payload: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-05-21 17:50:46,821 - INFO - Order Placement Success.Order ID:13172162629
+2026-05-21 18:29:18,592 - INFO - Sending Order Request Payload: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2026-05-21 18:29:19,210 - INFO - Order Placement Success.Order ID:13172294680
+2026-05-21 18:29:31,571 - INFO - Sending Order Request Payload: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.01}
+2026-05-21 18:29:32,132 - INFO - Order Placement Success.Order ID:13172295536
+2026-05-21 18:30:00,175 - INFO - Sending Order Request Payload: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.02, 'price': 80000.0, 'timeInForce': 'GTC'}
+2026-05-21 18:30:00,737 - INFO - Order Placement Success.Order ID:13172296871
+2026-05-21 18:30:11,868 - INFO - Sending Order Request Payload: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 0.02, 'price': 80000.0, 'timeInForce': 'GTC'}
+2026-05-21 18:30:12,425 - INFO - Order Placement Success.Order ID:13172297634
+2026-05-21 18:30:23,801 - INFO - Sending Order Request Payload: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 0.02, 'price': 70000.0, 'timeInForce': 'GTC'}
+2026-05-21 18:30:25,425 - INFO - Order Placement Success.Order ID:13172298537
+2026-05-21 18:30:31,041 - INFO - Sending Order Request Payload: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 0.02, 'price': 7000.0, 'timeInForce': 'GTC'}
+2026-05-21 18:30:31,624 - INFO - Order Placement Success.Order ID:13172298857
+2026-05-21 18:31:53,444 - INFO - Sending Order Request Payload: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.02, 'price': 7000.0, 'timeInForce': 'GTC'}
+2026-05-21 18:31:54,044 - ERROR - API Exception encounterd:Binance Exchanage Error:Limit price can't be lower than 73418.38.(Code -4024)
